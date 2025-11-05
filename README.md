@@ -28,7 +28,7 @@ I believe in **clean code**, **continuous improvement**, and building solutions 
 
 #### **Backend & Databases**
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Redis](https://skillicons.dev/icons?i=redis) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Nest.js](https://skillicons.dev/icons?i=nestjs) | ![Redis](https://skillicons.dev/icons?i=redis) | 
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 
 
 #### **DevOps & Tools**
