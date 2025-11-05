@@ -27,12 +27,9 @@ I believe in **clean code**, **continuous improvement**, and building solutions 
 ### 🧰 Tech Stack & Tools
 
 #### **Backend & Databases**
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Redis](https://skillicons.dev/icons?i=redis) |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Redis](https://skillicons.dev/icons?i=redis) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Nest.js](https://skillicons.dev/icons?i=nestjs) | ![Redis](https://skillicons.dev/icons?i=redis) | 
 |---|---|---|---|---|---|---|
 
-#### **Frontend**
-| ![React](https://skillicons.dev/icons?i=react) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-|---|---|---|
 
 #### **DevOps & Tools**
 | ![Docker](https://skillicons.dev/icons?i=docker) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Nginx](https://skillicons.dev/icons?i=nginx) |
@@ -56,9 +53,8 @@ Backend systems • API design • Database optimization • Scaling strategies 
 
 | Platform | Link |
 |---------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/godwinchukwuma |
-| 🧑‍💻 GitHub | https://github.com/GodwinCyber |
-| ✉️ Email | **godwinchukwuma01@gmail.com** |
+| 💼 LinkedIn | [Godwin Chukwuma](https://www.linkedin.com/in/godwin-chukwuma-7aa8b110a/) |
+| 🧑‍💻 GitHub | [Godwin Chukwuma](https://github.com/GodwinCyber) |
 
 ---
 
